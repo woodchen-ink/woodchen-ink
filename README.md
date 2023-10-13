@@ -5,6 +5,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woodchen-ink&theme=dark)
 
+## 赞赏码
+![](https://cdn-img-r2.czl.net/2023/10/13/6528c2b9aa070.jpg)
 
 ### 观看者记录
 

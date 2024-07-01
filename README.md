@@ -1,4 +1,3 @@
-点击链接加入QQ频道【wood的创作者频道】：https://pd.qq.com/s/7omwt27ng
 
 ![woodchen-ink's github stats](https://github-readme-stats.vercel.app/api?username=woodchen-ink&show_icons=true&theme=radical&include_all_commits=true) 
 

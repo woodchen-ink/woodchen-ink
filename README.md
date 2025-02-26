@@ -3,8 +3,6 @@
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woodchen-ink&theme=radical&layout=compact)   
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=woodchen-ink&theme=dark)
-
 ### 观看者记录
 
 ![](https://count.getloli.com/get/@woodchen-ink.github.readme)

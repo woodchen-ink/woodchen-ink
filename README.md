@@ -1,9 +1,5 @@
 
-![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/woodchen-ink/github-stats/refs/heads/master/generated/overview.svg) ![](https://raw.githubusercontent.com/woodchen-ink/github-stats/refs/heads/master/generated/languages.svg)
 
 
 ### 观看者记录

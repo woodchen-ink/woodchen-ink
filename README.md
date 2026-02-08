@@ -1,7 +1,10 @@
 
-![woodchen-ink's github stats](https://github-readme-stats.vercel.app/api?username=woodchen-ink&show_icons=true&theme=radical&include_all_commits=true) 
+![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woodchen-ink&theme=radical&layout=compact)   
+![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/woodchen-ink/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ### 观看者记录
 
